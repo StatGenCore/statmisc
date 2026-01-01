@@ -3,6 +3,7 @@ Title: Misc Utilities for Statistical Analysis and Data Cleaning
 Version: 0.1.0
 Authors@R: c(
     person("Jaron Arbet", role = c("aut", "cre"), email = "jarbet@coh.org"))
+Maintainer: Jaron Arbet <jarbet@coh.org>
 Description: A collection of convenient utility functions for statistical data analaysis and data-cleaning.
 License: GPL (>= 3)
 Encoding: UTF-8
