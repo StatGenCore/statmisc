@@ -1,21 +1,21 @@
 
-- [template.R.package](#templaterpackage)
+- [statmisc](#templaterpackage)
   - [Installation](#installation)
   - [Example](#example)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# template.R.package
+# statmisc
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of template.R.package is to …
+The goal of statmisc is to …
 
 ## Installation
 
-You can install the development version of template.R.package from
+You can install the development version of statmisc from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -28,7 +28,7 @@ pak::pak("jarbet/template-R-package")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(template.R.package)
+library(statmisc)
 ## basic example code
 ```
 

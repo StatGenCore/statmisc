@@ -1,9 +1,9 @@
-Package: template.R.package
-Title: What the Package Does (One Line, Title Case)
+Package: statmisc
+Title: Misc Utilities for Statistical Analysis and Data Cleaning
 Version: 0.1.0
 Authors@R: c(
     person("Jaron Arbet", role = c("aut", "cre"), email = "jarbet@coh.org"))
-Description: What the package does (one paragraph).
+Description: A collection of convenient utility functions for statistical data analaysis and data-cleaning.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -11,3 +11,4 @@ RoxygenNote: 7.3.3
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://statgencore.github.io/statmisc/

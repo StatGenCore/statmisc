@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library('template.R.package')
+library('statmisc')
 
-test_check("template.R.package")
+test_check("statmisc")
